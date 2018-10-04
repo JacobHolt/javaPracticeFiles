@@ -18,11 +18,11 @@ public class Hamburger {
     private String addition4name;
     private double addition4price;
 
-    public Hamburger(String name, String meat, double price, String breaRollType) {
+    public Hamburger(String name, String meat, double price, String breadRollType) {
         this.name = name;
         this.meat = meat;
         this.price = price;
-        this.breadRollType = breaRollType;
+        this.breadRollType = breadRollType;
     }
 
     public void addHamburgerAddition1(String name, double price) {

@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d44434-cd3b-4e39-aefe-7eb39f2cb867" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/OOPChallenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d4d44434-cd3b-4e39-aefe-7eb39f2cb867" name="Default" comment="Started the OOP challenge.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JacobHolt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Case.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Chair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Couch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Dimensions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Motherboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Resolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Composition/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Encapsulation/EnhancedPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Encapsulation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Encapsulation/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Encapsulation/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Inheritance/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/Inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/constructor/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/constructor/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/constructor/VIPAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/jacobholt/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JacobHolt/com/jacobholt/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/OOPChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OOPChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,50 +18,71 @@
     <session id="1996451486">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4306" />
+          <entry key="java" value="5069" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4306" />
+          <entry key="JAVA" value="5069" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+            <state relative-caret-position="306">
+              <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/DeluxeBurger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/HealthyBurger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="49" column="111" selection-start-line="49" selection-start-column="111" selection-end-line="49" selection-end-column="111" />
+            <state relative-caret-position="-288">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -138,8 +132,10 @@
         <option value="$PROJECT_DIR$/src/com/Encapsulation/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Encapsulation/Printer.java" />
         <option value="$PROJECT_DIR$/src/com/Polymorphism/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/OOPChallenge/Main.java" />
         <option value="$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java" />
+        <option value="$PROJECT_DIR$/src/com/OOPChallenge/HealthyBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/OOPChallenge/DeluxeBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/OOPChallenge/Main.java" />
       </list>
     </option>
   </component>
@@ -149,7 +145,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="27" />
     <option name="y" value="-18" />
     <option name="width" value="1932" />
@@ -161,8 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,13 +187,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537300910882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538665909046" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -275,18 +271,27 @@
       <workItem from="1536586631497" duration="1019000" />
       <workItem from="1536855855760" duration="61000" />
       <workItem from="1536856114584" duration="37000" />
-      <workItem from="1537298400610" duration="2487000" />
+      <workItem from="1537298400610" duration="2581000" />
+      <workItem from="1538664852528" duration="987000" />
     </task>
+    <task id="LOCAL-00001" summary="Started the OOP challenge.">
+      <created>1537300944463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537300944463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19987000" />
+    <option name="totallyTimeSpent" value="21068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.104477614" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10554371" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -321,6 +326,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started the OOP challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started the OOP challenge." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Constructors/.idea/misc.xml" />
@@ -484,17 +493,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+        <state relative-caret-position="-288">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/Hamburger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/HealthyBurger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="49" column="111" selection-start-line="49" selection-start-column="111" selection-end-line="49" selection-end-column="111" />
+        <state relative-caret-position="494">
+          <caret line="34" column="111" selection-start-line="34" selection-start-column="111" selection-end-line="34" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/DeluxeBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/OOPChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
         </state>
       </provider>
     </entry>
