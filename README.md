@@ -26,4 +26,4 @@ does not scare me anymore and no challenge seems to big to solve.
 
 # Sources for the course
 
-The link for this course can be found <a href="https://www.udemy.com/java-the-complete-java-developer-course/"> here </a>
+The link for this course can be found <a href="https://www.udemy.com/java-the-complete-java-developer-course/" target="_blank"> here </a>
