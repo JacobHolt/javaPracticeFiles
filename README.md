@@ -2,7 +2,7 @@
 
 This respository is full of different lessons from a java UDEMY class. <br>
 
-The repository itslef is going to constantly be updated with new codes as I learn more. Currently 
+The repository itself is going to constantly be updated with new codes as I learn more. Currently 
 at the time of this writing I have filled the repo with code pertaining to Arrays, Composition,
 Encapsulation, Inheritance, OOPChallenge, Polymorphism, and Constuctors. <br>
 
